@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct — error_lens_code NSoC'26
+# Contributor Covenant Code of Conduct : error_lens_code NSoC'26
 
 ![Community](https://img.shields.io/badge/Community-Welcoming-brightgreen?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blue?style=for-the-badge) 
